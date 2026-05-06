@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// sum of fist n number by functional way
 public class recursion_2 {
     static int f(int n) {
         if (n == 0) {

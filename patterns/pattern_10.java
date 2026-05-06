@@ -12,7 +12,7 @@ public class pattern_10 {
                 stars = 2 * n - i - 1; // this line
             }
             for (int j = 0; j < stars; j++) {
-                System.out.print("*");
+                System.out.print("* ");
 
             }
 

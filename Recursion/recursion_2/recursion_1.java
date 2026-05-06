@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // the problem was sum of first n numbers
+// by parameterised way
 public class recursion_1 {
     static void f(int i, int sum) {
         if (i < 1) {
