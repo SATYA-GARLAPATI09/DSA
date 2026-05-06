@@ -1,8 +1,8 @@
+
 import java.util.*;
 
-public class sub_sequenece {
-
-    static void f(int ind, int[] arr, List<Integer> list) {
+public class subsequemce_sum_k {
+    static void f(int ind, int arr[], List<Integer> list) {
 
         if (ind == arr.length) {
             System.out.println(list);
